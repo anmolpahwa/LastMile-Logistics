@@ -2,3 +2,5 @@ results
 gis
 Manifest.toml
 instances
+geninstance.jl
+lcp.jl
